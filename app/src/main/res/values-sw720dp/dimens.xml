@@ -1,0 +1,47 @@
+<resources>
+    <!-- Copyright CityBookers Project
+
+   Licensed under the Apache License, Version 1.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+  -->
+    <dimen name="hieht240">480dp</dimen>
+    <dimen name="padding_margin8">12dp</dimen>
+    <dimen name="padding_margin16">22dp</dimen>
+    <dimen name="padding_margin24">40dp</dimen>
+    <dimen name="padding_margin32">60dp</dimen>
+    <dimen name="padding_margin40">70dp</dimen>
+    <dimen name="padding_margin48">86dp</dimen>
+    <dimen name="padding_margin60">120dp</dimen>
+
+
+    <dimen name="width110">150dp</dimen>
+    <dimen name="textsize160">320sp</dimen>
+    <dimen name="padding32">90dp</dimen>
+    <dimen name="textsize16">24sp</dimen>
+    <dimen name="textsize56">90sp</dimen>
+    <dimen name="textsize24">32sp</dimen>
+    <dimen name="hieht_width320">640dp</dimen>
+    <dimen name="textsize32">50sp</dimen>
+    <dimen name="textsize12">28sp</dimen>
+    <dimen name="textsize8">12sp</dimen>
+
+    <dimen name="hieht_width300">600dp</dimen>
+    <dimen name="hieht_width90">200dp</dimen>
+    <dimen name="hieht_width210">400dp</dimen>
+    <dimen name="hieht_width180">320dp</dimen>
+
+    <dimen name="hieht_width_400">-860dp</dimen>
+    <dimen name="hieht_width120">240dp</dimen>
+    <dimen name="textsize20">36sp</dimen>
+
+
+
+</resources>

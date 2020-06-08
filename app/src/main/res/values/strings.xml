@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Speakit</string>
+    <string name="create_account">Don\'t have account?</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login">Sign In</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="mobile">Phone</string>
+</resources>

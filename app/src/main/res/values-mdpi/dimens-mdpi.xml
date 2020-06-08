@@ -1,0 +1,37 @@
+<resources>
+    <dimen name="width110">85dp</dimen>
+    <dimen name="hieht240">180dp</dimen>
+    <dimen name="padding_margin8">5dp</dimen>
+    <dimen name="padding_margin16">10dp</dimen>
+    <dimen name="padding_margin24">14dp</dimen>
+    <dimen name="padding_margin32">24dp</dimen>
+    <dimen name="padding_margin40">30dp</dimen>
+    <dimen name="padding_margin48">36dp</dimen>
+    <dimen name="padding_margin60">60dp</dimen>
+    <dimen name="padding32">24dp</dimen>
+    <dimen name="textsize56">36sp</dimen>
+    <dimen name="textsize160">120sp</dimen>
+    <dimen name="textsize16">9sp</dimen>
+    <dimen name="textsize24">14sp</dimen>
+    <dimen name="hieht_width320">240dp</dimen>
+    <dimen name="textsize32">20sp</dimen>
+    <dimen name="textsize12">10sp</dimen>
+    <dimen name="textsize8">6sp</dimen>
+    <dimen name="hieht_width300">240dp</dimen>
+    <dimen name="hieht_width90">80dp</dimen>
+    <dimen name="hieht_width210">160dp</dimen>
+    <dimen name="hieht_width180">130dp</dimen>
+
+    <dimen name="hieht_width_400">-320dp</dimen>
+    <dimen name="hieht_width120">80dp</dimen>
+    <dimen name="textsize20">15.2sp</dimen>
+
+
+
+
+
+
+
+
+
+</resources>

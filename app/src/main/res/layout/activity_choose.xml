@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/beginner_txt"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/width110"
+        android:layout_marginStart="@dimen/padding_margin32"
+        android:layout_marginTop="@dimen/padding_margin16"
+        android:layout_marginEnd="@dimen/padding_margin16"
+        android:background="@drawable/ripple"
+        android:gravity="center"
+        android:padding="@dimen/padding_margin16"
+        android:textStyle="bold"
+        android:text="Start as a Beginner"
+        android:textColor="@color/white"
+        android:drawableStart="@drawable/start"
+        android:drawableEnd="@drawable/arrow"
+        android:textSize="@dimen/textsize20" />
+
+    <TextView
+        android:id="@+id/exam_txt"
+        android:layout_below="@+id/beginner_txt"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/width110"
+        android:layout_marginStart="@dimen/padding_margin32"
+        android:layout_marginTop="@dimen/padding_margin16"
+        android:layout_marginEnd="@dimen/padding_margin16"
+        android:background="@drawable/ripple"
+        android:gravity="center"
+        android:padding="@dimen/padding_margin16"
+        android:textStyle="bold"
+        android:text="Test your level"
+        android:drawableStart="@drawable/test"
+        android:drawableEnd="@drawable/arrow"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textsize20" />
+
+</RelativeLayout>

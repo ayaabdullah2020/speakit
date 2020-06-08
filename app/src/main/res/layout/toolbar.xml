@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:animateLayoutChanges="true"
+        android:background="@color/white"
+        android:elevation="8dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:theme="@style/ToolbarColoredBackArrow"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:titleTextColor="#fff"
+        app:popupTheme="@style/AppTheme.PopupOverlay" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:textSize="@dimen/textsize20"
+            android:id="@+id/toolbar_txt"
+            android:textColor="@color/black"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="title"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/padding_margin8"
+                android:id="@+id/menu"
+                android:visibility="gone"
+                android:src="@drawable/ic_horo_menu"
+                android:layout_centerVertical="true"
+                android:layout_alignParentEnd="true"
+                />
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.Toolbar>
+
+</LinearLayout>
